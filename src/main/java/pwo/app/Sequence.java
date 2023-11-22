@@ -4,7 +4,13 @@
  */
 package pwo.app;
 
+/**
+ * Klasa Sequence switch/case w zaleznosci od wyboru SeqToOutApp lub SeqToFileApp
+ * @author student
+ */
+
 public class Sequence {
+
     public static void main(String[] args) {
         switch (args.length) {
             case 3:

@@ -9,6 +9,11 @@ import pwo.utils.SequenceTools;
 import java.nio.file.Paths;
 import java.nio.file.InvalidPathException;
 
+/**
+ * Klasa zapisujaca sekwencje wygenerowanego ciagu do pliku
+ * @author student
+ */
+
 class SeqToFileApp {
 
     protected SeqType seqType = null;
@@ -39,7 +44,10 @@ class SeqToFileApp {
         return SequenceTools.writeToFile(seqType.getGenerator(),
                 from, to, fileName);
     }
-
+    /**
+     * Funkcja run w klasie SeqToFileApp
+     * @param args 
+     */
     public void run(String[] args) {
         System.out.println("Sequence to file CLI app");
 
