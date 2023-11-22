@@ -1,0 +1,46 @@
+@options
+@packages
+-encoding
+'UTF-8'
+-protected
+-source
+'17'
+-sourcepath
+'/home/student/Pulpit/pwo/pwo-lab06/src/main/java:/home/student/Pulpit/pwo/pwo-lab06/target/generated-sources/annotations'
+-author
+-bottom
+'Copyright &#169; 2023. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'/home/student/Pulpit/pwo/pwo-lab06/target/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'lab06 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'lab06 1.0-SNAPSHOT API'
+pwo.seq
+pwo.utils
+pwo.app
+/home/student/Pulpit/pwo/pwo-lab06/src/main/java = 1700646152142
+/home/student/Pulpit/pwo/pwo-lab06/target/generated-sources/annotations = 1700648669611
+/home/student/Pulpit/pwo/pwo-lab06/target/apidocs/index.html = 1700648671463
+/home/student/Pulpit/pwo/pwo-lab06/target/apidocs/jquery-ui.overrides.css = 1700648671491
+/home/student/Pulpit/pwo/pwo-lab06/target/apidocs/allclasses-index.html = 1700648671475
+/home/student/Pulpit/pwo/pwo-lab06/target/apidocs/help-doc.html = 1700648671491
+/home/student/Pulpit/pwo/pwo-lab06/target/apidocs/element-list = 1700648671423
+/home/student/Pulpit/pwo/pwo-lab06/target/apidocs/index-all.html = 1700648671487
+/home/student/Pulpit/pwo/pwo-lab06/target/apidocs/module-search-index.js = 1700648671475
+/home/student/Pulpit/pwo/pwo-lab06/target/apidocs/type-search-index.js = 1700648671475
+/home/student/Pulpit/pwo/pwo-lab06/target/apidocs/script.js = 1700648671491
+/home/student/Pulpit/pwo/pwo-lab06/target/apidocs/allpackages-index.html = 1700648671475
+/home/student/Pulpit/pwo/pwo-lab06/target/apidocs/overview-summary.html = 1700648671487
+/home/student/Pulpit/pwo/pwo-lab06/target/apidocs/member-search-index.js = 1700648671475
+/home/student/Pulpit/pwo/pwo-lab06/target/apidocs/package-search-index.js = 1700648671475
+/home/student/Pulpit/pwo/pwo-lab06/target/apidocs/overview-tree.html = 1700648671463
+/home/student/Pulpit/pwo/pwo-lab06/target/apidocs/stylesheet.css = 1700648671491
+/home/student/Pulpit/pwo/pwo-lab06/target/apidocs/tag-search-index.js = 1700648671475
+/home/student/Pulpit/pwo/pwo-lab06/target/apidocs/search.js = 1700648671491
